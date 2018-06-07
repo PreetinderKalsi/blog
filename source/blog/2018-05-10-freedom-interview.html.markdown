@@ -5,7 +5,7 @@ background_image: /img/blog/freedom-interview/background.jpg
 background_image_source: https://twitter.com/CrookedCosmos/status/994318611828367360
 ---
 
-I was was [interviewed on the Freedom blog][interview] about fighting distraction and fear-of-missing-out. Check it out!
+I was [interviewed on the Freedom blog][interview] about fighting distraction and fear-of-missing-out. Check it out!
 
 (READMORE)
 
